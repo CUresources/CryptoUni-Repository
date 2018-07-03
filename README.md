@@ -18,7 +18,7 @@ CryptoUNI Writers (i.e. Medium page accompanying this repository): https://mediu
 
 ----------------------------------------------
 
-## CryptoUNI collaborators (in no particular order) ##
+## CryptoUNI collaborators & partners (in no particular order) ##
 
 **Singapore Management University (SMU) <br />**
 
