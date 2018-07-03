@@ -23,7 +23,7 @@ CryptoUNI Writers (i.e. Medium page accompanying this repository): https://mediu
 **Singapore Management University (SMU) <br />**
 
 
-**Nanyang Technological University (NTU - Nanyang Blockchain Association)<br />**
+**Nanyang Technological University (NTU | Nanyang Blockchain Association)<br />**
 Linkedin: https://www.linkedin.com/in/nanyang-blockchain-association-b92980158/ <br />
 Facebook: https://www.facebook.com/Nanyang-Blockchain-Association-667357170055038/ <br />
 
