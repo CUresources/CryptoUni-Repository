@@ -46,4 +46,4 @@ Telegram: https://t.me/instituteofblockchain <br />
 | Name | Affiliation | Contact |
 | ------------- | ------------- | ------------- | 
 | Ben  | NTU NBA  | https://t.me/benpanthera |
-| - | - | - |
+| Chris  | CryptoUNI SMUB | https://t.me/xiaolongbaoo |
