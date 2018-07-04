@@ -34,6 +34,8 @@ Telegram: https://t.me/instituteofblockchain <br />
 **National University of Singapore (NUS) <br />**
 
 **Singapore University of Social Sciences (SUSS) <br />**
+Website: http://www.suss.edu.sg/CET/Pages/fintech.aspx <br />
+Website: https://sussblockchain.com/ <br />
 
 **Singapore Institute of Management (SIM) <br />**
 
